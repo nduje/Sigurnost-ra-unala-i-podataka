@@ -40,7 +40,7 @@ Komentarom na **dostupnost** podataka zaključili smo prvu laboratorijsku vježb
 
 # Ilustracija Man-in-the-middle napada
 
-![ARP spoofing.png](Man-in-the-middle%20attacks%20(ARP%20spoofing)%209155ea1c36db4ef78c792cb05a86622e/ARP_spoofing.png)
+![ARP spoofing.png](/ARP_spoofing.png)
 
 ---
 
