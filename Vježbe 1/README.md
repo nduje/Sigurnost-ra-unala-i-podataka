@@ -20,7 +20,7 @@ Korištenjem **netcat** alata uspostavili smo vezu klijent-server između uređa
 
 Promet između navedena dva uređaja odvijao se u oba smjera.
 
-Sljedeći potez je bio ubaciti napadača **evil-station** u kanal kojim komuniciraju ****uređaji **station-1** i **station-2**. Ovim potezom se također narušava **vjerodostojnost**.
+Sljedeći potez je bio ubaciti napadača **evil-station** u kanal kojim komuniciraju uređaji **station-1** i **station-2**. Ovim potezom se također narušava **vjerodostojnost**.
 
 Da bismo presreli promet između dvije žrtve, izvoru podataka (u našem slučaju je to bio **station-1**) smo se, u ulozi napadača (**evil-station**), trebali predstaviti kao **station-2**. Da bismo postigli takvu situaciju, koristili smo alat **arpspoof**.
 
