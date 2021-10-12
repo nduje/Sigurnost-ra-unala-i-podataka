@@ -40,10 +40,10 @@ Komentarom na **dostupnost** podataka zaključili smo prvu laboratorijsku vježb
 
 # Ilustracija Man-in-the-middle napada
 
-![ARP spoofing.png](/Vježba%201/ARP_spoofing.png)
+![ARP spoofing.png](/Images/ARP_spoofing.png)
 
 ---
 
 # Primjer izgleda terminala za vrijeme ARP spoofinga
 
-![c6b082fb-5092-4bb1-8300-7741fed2561c_copy.jpg](/Vježba%201/c6b082fb-5092-4bb1-8300-7741fed2561c_copy.jpg)
+![ARP_spoofing_labs.jpg](/Images/ARP_spoofing_labs.jpg)
