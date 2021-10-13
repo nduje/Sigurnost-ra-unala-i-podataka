@@ -14,7 +14,7 @@ Korištenjem *docker* tehnologije virtualizirali smo 3 uređaja te smo ih poveza
 - **station-1** - uređaj koji će se ponašati kao klijent
 - **station-2** - uređaj koji će se ponašati kao server
 
-Spojili smo se u terminal **station-1** uređaja te smo naredbom **ifconfig** saznali njegovu IP (172.29.0.2) i MAC (:02) adresu. Preostalo nam je još saznati IP (172.29.0.4) i MAC (:04) adresu **station-2** uređaja. Najlakši način na koji smo to mogli učiniti je **pinganjem** **station-2** uređaja.
+Spojili smo se u terminal **station-1** uređaja te smo naredbom **ipconfig** saznali njegovu IP (172.29.0.2) i MAC (:02) adresu. Preostalo nam je još saznati IP (172.29.0.4) i MAC (:04) adresu **station-2** uređaja. Najlakši način na koji smo to mogli učiniti je **pinganjem** **station-2** uređaja.
 
 Korištenjem **netcat** alata uspostavili smo vezu klijent-server između uređaja **station-1** i **station-2**. 
 
