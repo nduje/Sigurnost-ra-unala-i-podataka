@@ -3,7 +3,7 @@
 ---
 
 # Ilustracija Symmetric key cryptography metode
-![ARP_spoofing_labs.jpg](/Images/ARP_spoofing_labs.jpg)
+![Symmetric_key_cryptography.jpg](/Images/Symmetric_key_cryptography.png)
 
 ### Glavni elementi:
 
