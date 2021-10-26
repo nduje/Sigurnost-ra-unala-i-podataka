@@ -4,7 +4,7 @@
 
 # Ilustracija Symmetric key cryptography metode
 
-![Symmetric key cryptography.png](Symmetric%20key%20cryptography%20-%20a%20crypto%20challenge%20ae2191ff9a814041ad68f3464b8f6d8c/Symmetric_key_cryptography.png)
+![Symmetric key cryptography.png](/Images/Symmetric_key_cryptography.png)
 
 ### Glavni elementi:
 
