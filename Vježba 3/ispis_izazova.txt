@@ -1,0 +1,10 @@
+Message     Buy 89 shares of Tesla (2021-11-09T17:23) OK
+Message     Buy 92 shares of Tesla (2021-11-13T23:49) OK
+Message     Buy 36 shares of Tesla (2021-11-13T17:18) OK
+Message    Sell 16 shares of Tesla (2021-11-15T22:42) OK
+Message    Sell 90 shares of Tesla (2021-11-15T18:26) OK
+Message    Sell 46 shares of Tesla (2021-11-15T04:51) OK
+Message    Sell 85 shares of Tesla (2021-11-11T14:48) NOK
+Message    Sell 14 shares of Tesla (2021-11-13T05:24) OK
+Message     Buy 70 shares of Tesla (2021-11-13T13:32) OK
+Message     Buy 47 shares of Tesla (2021-11-12T07:36) OK
