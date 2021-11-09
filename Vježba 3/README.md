@@ -4,7 +4,7 @@
 
 # Ilustracija Message Authentication Code (MAC) mehanizma
 
-![Message Authentication Code.png](Message%20Authentication%20Code%20(MAC)%208fc2882c323f4ea3a0972cb24b864f0c/Message_Authentication_Code.png)
+![Message_Authentication_Code.png](/Images/Message_Authentication_Code.png)
 
 ### Glavni elementi:
 
