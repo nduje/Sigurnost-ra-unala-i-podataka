@@ -27,7 +27,7 @@ Za potrebe ove vježbe koristili smo **Pyhton**.
 
 Za rješavanje našeg zadatka, potrebna nam je bila Python biblioteka ***cryptography***.
 
-*Plaintext* ****kojeg smo trebali otkriti bio je enkriptiran korištenjem *high-level* sustava za simetričnu enkripciju - **Fernet**.
+*Plaintext* kojeg smo trebali otkriti bio je enkriptiran korištenjem *high-level* sustava za simetričnu enkripciju - **Fernet**.
 
 S obzirom na to da je jedan od glavnih uvjeta za uspješno obavljanje zadatka bio rad u Pythonu (*verzija 3*), prvo smo morali stvoriti **virtualno okruženje**.
 
