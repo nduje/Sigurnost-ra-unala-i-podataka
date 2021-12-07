@@ -192,12 +192,12 @@ Ovime smo završili **Izazov 2**, a time i treću laboratorijsku vježbu. Uz to 
 
 ## Ilustracija verifikacije Public-Key certifikata
 
-![Digital signatures using public-key cryptography (Image 1).png](Message%20authentication%20and%20integrity%208fc2882c323f4ea3a0972cb24b864f0c/Digital_signatures_using_public-key_cryptography_(Image_1).png)
+![Digital_signatures_using_public-key_cryptography_(Image 1)](/Images/Digital_signatures_using_public-key_cryptography_(Image 1))
 
 > 1. KORAK: Kako bismo dobili digitalni potpis *Certificate information* prvo hashiramo kako bismo dobili *cert info*, a zatim *cert info* enkriptiramo *enkripcijskim algoritmom* uz pomoć *privatnog ključa*. Enkripcijom smo dobili *digitalni potpis* kojeg zalijepimo na izvornu poruku (*certificate information*).
 > 
 
-![Digital signatures using public-key cryptography (Image 2).png](Message%20authentication%20and%20integrity%208fc2882c323f4ea3a0972cb24b864f0c/Digital_signatures_using_public-key_cryptography_(Image_2).png)
+![Digital_signatures_using_public-key_cryptography_(Image 2)](/Images/Digital_signatures_using_public-key_cryptography_(Image 2))
 
 > 2. KORAK: Kada smo primili od pošiljatelja poruku zajedno s *digitalnim potpisom* vršimo usporedbu kako bi smo utvrdili je li očuvan integritet poruke. *Certificate information* hashiramo te uspoređujemo s rezultatom dekripcije *digitalnog potpisa*. Dekripciju smo izvršili *dekripcijskim algoritmom* uz pomoć *javnog ključa*.
 > 
