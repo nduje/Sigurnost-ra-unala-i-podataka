@@ -6,11 +6,11 @@
 
 ## Spremanje novog korisnika
 
-![Loading a new user.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Loading_a_new_user.png)
+![Loading_a_new_user.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Loading_a_new_user.png)
 
 ## Verifikacija lozinke
 
-![Verifying a password.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Verifying_a_password.png)
+![Verifying_a_password.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Verifying_a_password.png)
 
 ---
 
