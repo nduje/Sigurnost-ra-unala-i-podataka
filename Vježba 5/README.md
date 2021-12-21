@@ -74,7 +74,7 @@ S obzirom da se radi o *lowercase* slovima, znamo da ih ima **26** (ASCII tablic
 
 A kako je šifra dužine između 4 i 6 znakova, primjenom **kombinatorike** imamo sljedeće rješenje matematičkog problema:
 
-![Math behind our problem (Password guessing attacks).png](Online%20and%20Offline%20Password%20Guessing%20Attacks%20116aa1a51f824e7081d5aa5937b52e26/Math_behind_our_problem_(Password_guessing_attacks).png)
+![Math_behind_our_problem_(Password_guessing_attacks).png](/Images/Math_behind_our_problem_(Password_guessing_attacks).png)
 
 > NAPOMENA: Problem je riješen uz pomoć aproksimacije brojeva na **potencije broja 2**. Uz pomoć kombinatorike smo izračunali da postoji mogućih **2 na 30 kombinacija lozinke**. Pokretanjem zadatka smo dobili povratnu informaciju da je *rate* zahtjeva **64 po minuti**. Što znači da nam je potrebno **2 na 24 minuta** da bi *izvrtili* sve lozinke. Ako se to pretvori u godine, to je ukupno **2 na 5**, odnosno **32 godine**.
 > 
