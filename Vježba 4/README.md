@@ -6,11 +6,11 @@
 
 ## Spremanje novog korisnika
 
-![Loading a new user.png](Password-hashing%20(iterative%20hashing,%20salt,%20memory-%20283ba266430b43209987f4df44250ff4/Loading_a_new_user.png)
+![Loading a new user.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Loading_a_new_user.png)
 
 ## Verifikacija lozinke
 
-![Verifying a password.png](Password-hashing%20(iterative%20hashing,%20salt,%20memory-%20283ba266430b43209987f4df44250ff4/Verifying_a_password.png)
+![Verifying a password.png](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Images/Verifying_a_password.png)
 
 ---
 
