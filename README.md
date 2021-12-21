@@ -6,3 +6,5 @@
 **Vježba 2** - [Symmetric key cryptography - a crypto challenge](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%202)
 
 **Vježba 3** - [Message Authentication Code (MAC)](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%203)
+
+**Vježba 4** - [Password-hashing (iterative hashing, salt, memory-hard functions)](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%204)
