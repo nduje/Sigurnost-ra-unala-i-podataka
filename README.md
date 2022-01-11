@@ -10,3 +10,5 @@
 **Vježba 4** - [Password-hashing (iterative hashing, salt, memory-hard functions)](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%204)
 
 **Vježba 5** - [Online and Offline Password Guessing Attacks](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%205)
+
+**Vježba 6** - [Linux permissions and ACLs](https://github.com/nduje/Sigurnost-ra-unala-i-podataka/tree/main/Vje%C5%BEba%206)
